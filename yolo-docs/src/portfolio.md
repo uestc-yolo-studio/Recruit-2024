@@ -1,7 +1,7 @@
 ---
-home: true
-portfolio: true
-title: 档案主页
+home: false
+portfolio: false
+title: Yolo 工作室介绍
 icon: home
 welcome: 👋 你好，我是
 name: 江户川柯南
