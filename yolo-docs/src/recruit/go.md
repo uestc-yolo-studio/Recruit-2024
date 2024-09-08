@@ -1,9 +1,9 @@
 ---
-title: 前端
+title: Go
 sidebar: true
 author: [
   {
-    name: 'lyy',
+    name: '雷宇杨',
     url: ''
   },
 ]

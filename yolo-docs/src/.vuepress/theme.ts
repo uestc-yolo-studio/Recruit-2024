@@ -12,11 +12,13 @@ export default hopeTheme({
         url: 'https://github.com/uestc-yolo-studio',
     }],
 
+    favicon: 'yoloLogo.svg',
+
     iconAssets: 'fontawesome-with-brands',
 
-    logo: 'https://theme-hope-assets.vuejs.press/logo.svg',
+    logo: 'yoloLogo.svg',
 
-    repo: 'vuepress-theme-hope/vuepress-theme-hope',
+    repo: 'https://github.com/uestc-yolo-studio',
 
     docsDir: 'src',
 
@@ -27,7 +29,7 @@ export default hopeTheme({
     sidebar,
 
     // 页脚
-    footer: '默认页脚',
+    footer: '',
     displayFooter: true,
     copyright: '版权所有 © 2019-至今 YOLO Studio',
 
@@ -44,7 +46,7 @@ export default hopeTheme({
     },
 
     // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-    hotReload: true,
+    hotReload: false,
 
     // 在这里配置主题提供的插件
     plugins: {

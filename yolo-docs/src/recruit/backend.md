@@ -1,8 +1,8 @@
 ---
-title: 后端招新题
-sidebar: false
+title: 后端
+sidebar: true
 author: [{ 
-    name: 'lyy', 
+    name: 'lyyyyyyyyyy', 
     url: 'https://github.com/orgs/uestc-yolo-studio/people/Lerikes' 
   },
   {
