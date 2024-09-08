@@ -1,20 +1,24 @@
-import { navbar } from "vuepress-theme-hope";
+import { navbar } from 'vuepress-theme-hope'
 
 export default navbar([
-  "/",
-  {
-    text: "招新题",
-    icon: "circle-info",
-    prefix: "/recruit/",
-    children: [
-      {
-        text: "frontend",
-        link: "/recruit/frontend.md",
-      },
-      {
-        text: "backend",
-        link: "/recruit/backend.md",
-      },
-    ]
-  }
-]);
+    '/',
+    {
+        text: '2024秋招新',
+        icon: 'circle-info',
+        prefix: '/recruit/',
+        children: [
+            {
+                text: '前端',
+                link: '/recruit/frontend.md',
+            },
+            {
+                text: '后端',
+                link: '/recruit/backend.md',
+            },
+            {
+                text: '操作系统',
+                link: 'https://uestc-os-camp.clovy.top/#/'
+            },
+        ],
+    },
+])

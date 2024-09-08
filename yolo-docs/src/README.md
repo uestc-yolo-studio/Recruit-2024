@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Yolo 工作室介绍
+title: YOLO 工作室介绍
 heroImage: /logo.jpg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
