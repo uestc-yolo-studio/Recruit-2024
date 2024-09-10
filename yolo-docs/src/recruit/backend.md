@@ -25,7 +25,7 @@ author: [{
 
   文件夹的结构类似于这样:
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDE4ODE1Mjk4ZjMyOWQwYTVlNzc0NmY1NDRlNWJkMjdfcE16OUI3S2U4OUh0QjY3SmxkNEswNTdoQUh6cHZSbGlfVG9rZW46TGE4TWI5YTEzb1QyTDN4Z09XbmN1M094bnBmXzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![1280X1280](..\.vuepress\public\assets\image\backend\1280X1280.PNG)
 
   然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-后端-JAVA基础` 。
 
@@ -35,7 +35,9 @@ author: [{
 
   欢迎各位24级的各位同学点开YOLO工作室后端招新题，进入奇妙的Java世界。在这篇文档中我们将试图为你的Java学习做一些引导。加入工作室之后，更是有詹少😊雷神🤪郭神😍这种位面顶级大能为你提供Java指导，带你手撕面试，剑指offer！
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=MmRjOWQ2MmIzMTY3MDQ1NzdiZWJhYjg2NDdkNTlkOTNfTDR3enlKM3ZzSURncmNKS05qWG03em9qYmhOVHZQVTJfVG9rZW46RlByOWJhVmlub29SSFh4YjZSVmNFQUlFbkZlXzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=YzgzZGI1MGFhZDQ4ZGViZDcyYWE0MDQyYjQ1ZmQwZjRfckU0TU1CTmpXOGZDclIwcEkxOWdCN1Qyd3VlSnVFM0dfVG9rZW46VGJzZWJGNGY5bzROOU54d25oa2MxQUpOblY5XzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  <img src="..\.vuepress\public\assets\image\backend\1280X1280 (1).PNG" alt="1280X1280 (1)" style="zoom:50%;" />
+
+  <img src="..\.vuepress\public\assets\image\backend\1280X1280 (2).PNG" alt="1280X1280 (2)" style="zoom:50%;" />
 
   Java是一门[面向对象](https://baike.baidu.com/item/面向对象/0?fromModule=lemma_inlink)的编程语言，不仅吸收了[C++](https://baike.baidu.com/item/C++/0?fromModule=lemma_inlink)语言的各种优点，还摒弃了C++里难以理解的多继承、[指针](https://baike.baidu.com/item/指针/2878304?fromModule=lemma_inlink)等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程
 
@@ -46,7 +48,7 @@ author: [{
   招新题完成数量不设指标，只要我们能从中看出你的学习能力、学习态度，你就有可能被选中,加入光荣的进化YOLO工作室！
 
   ## 做题前的准备
-
+  
   1. 安装JDK，配置环境变量。
   2. 安装IntelliJ IDEA（推荐）或 Eclipse。 记事本也不是不行 
   3. 学会markdown语法来编写你的文档，推荐使用typora。
@@ -89,7 +91,7 @@ author: [{
   学习Java的一些基础语法，并在此基础上根据要求完成下面的Java题目。
 
   **注：函数中需要自己填写传入的参数。**
-
+  
   ```Plain
   package com.test;
   
@@ -137,7 +139,7 @@ author: [{
   - static关键字
 
   然后完成下面的题目：
-
+  
   ```Java
   public class Main {
       int dogCount = 0;
@@ -169,7 +171,7 @@ author: [{
   我希望每一次调用一次addDog方法（或者说每增加一只狗狗）对狗狗的计数就加一，但是上面的代码似乎很不合理，请你使用学习的知识来对这个功能做修改。
 
   #### 拓展：
-
+  
   - 上面的addDog()方法为什么不能像题目二那样直接调用
   - static关键字修饰的变量和普通变量有什么区别，static的影响是什么。
   - static关键字还可以有什么用法
@@ -181,13 +183,13 @@ author: [{
   那什么是面向对象编程？
 
   和面向对象编程不同的，是面向过程编程。面向过程编程，是把模型分解成一步一步的过程。比如，老板告诉你，要编写一个TODO任务，必须按照以下步骤一步一步来：
-
+  
   > 1. 读取文件；
   > 2. 编写TODO；
   > 3. 保存文件。
 
   有了对象后，就可以和对象进行互动：
-
+  
   ```Java
   GirlFriend gf = new GirlFriend();
   gf.name = "Alice";
@@ -208,17 +210,17 @@ author: [{
 
   运动员有很多很多，每个人负责不同的项目，但是不管是什么运动员，都至少要训练和参赛，只不过内容不同而已，所以你要将运动员当作父类，然后生成乒乓球运动员和游泳运动员，作为运动员的子类。请参照下面的类图
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=MGUzNTEzODE0N2YwMWE1ZjRkZjBiNDI5OWEwNTI5ZTRfM1hFQ3g1V2hGdDN0ZjRIS0VJQ2N2VkZ1WGR3QWRabkxfVG9rZW46Q1hjV2IwNmFSb0NiOGh4UlFWbWNSQnFVbjV1XzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![whiteboard_exported_image](..\.vuepress\public\assets\image\backend\whiteboard_exported_image.png)
 
   父类的两个方法需要有实现的，如果子类不重写父类的方法，那就默认使用父类的实现，但是这里要求每个子类都需要重写。具体的实现只需要打印语句即可。
 
   同样的教练也有很多很多，那么我们可以仿照上面的运动员类图得到教练的类图。
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWM5MjA3OWRkNGJmNDY1ZDE5YzhiZjVlY2M5OGU2MmFfU2t6VjhYVE1qYzc1ZXdFclZsanNoZkNrQk9vbDNnQXVfVG9rZW46RHVjZGJZMmFCb1ZUMGh4d3FTVmN6U24zbkU3XzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![whiteboard_exported_image (1)](..\.vuepress\public\assets\image\backend\whiteboard_exported_image (1).png)
 
   其实不管是运动员还是教练，都应该是人，所以完整的类的关系应该是这样的:
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=MzM0ODM1MTljMjQ1ZjhiOTMxZWQ0NmRiODY0ZmE1MmRfU0dLbzZCZnBsTzZTb0k4SVRCWjNLeG1KaG9ZcGpyaGNfVG9rZW46SG02U2JOZjBkb0xsdnh4Mjhhd2N2aXJhbnBjXzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![whiteboard_exported_image (2)](..\.vuepress\public\assets\image\backend\whiteboard_exported_image (2).png)
 
   但是运动员和教练都需要吃饭，都需要睡觉，还有都需要学习吧，人都需要吃饭和睡觉，但是不是每个人都在学习，所以如果把学习放在people类中，是不是不够恰当，那么该如何实现呢？那么在之后我又发现一个只有运动员和教练才会有的行为，我怎么样更快的，更方便的让这个这两个类增加呢？
 
@@ -235,7 +237,7 @@ author: [{
   - 权限修饰符
 
   然后完成下面题目：
-
+  
   ```Java
   public abstract class Student{
   
@@ -262,7 +264,7 @@ author: [{
   ```
 
   这样的打印结果会是怎样呢?
-
+  
   ```Java
   public class Main {
       public static void main(String[] args) {
@@ -319,12 +321,12 @@ author: [{
 
   ### 题目一：
 
-  以下是一张与异常相关的图片：
+  以下是一张与异常相关的图片：s
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=MGM5MDRkNGU0ZWE3NDhmZTcxMzJiODhhZWI4M2ZiZmRfUTJZY3NMVUREb013cUFmcnBPMnhFRmxRQVNXb2ZMb0dfVG9rZW46VmNCNmJ6OWZHb0Q5Mkp4SkdqeWM4Zm9sblVjXzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![c0749271-9d47-4882-9290-8ba3f13a78a3](..\.vuepress\public\assets\image\backend\c0749271-9d47-4882-9290-8ba3f13a78a3.png)
 
   > 善用搜索引擎，整理你所得到的信息，并结合你的理解。
-
+  
   - 请你说说throw和throws的区别，并自行用代码举例。
   - 当你的代码需要处理文件、数据库连接或任何实现了 `AutoCloseable` 接口的资源时，如何确保资源在使用完毕后被正确关闭，避免因编程错误造成的资源泄漏呢？
 
@@ -345,7 +347,7 @@ author: [{
   ### 题目一:
 
   出题人 @熊志杰 
-
+  
   - 搭建MySQL环境 
     - 手把手安装视频
     - https://www.bilibili.com/video/BV1jcabemEr7/?spm_id_from=333.337.search-card.all.click&vd_source=5a57db72ad9f15166dafe983742b0fad 
@@ -370,7 +372,7 @@ author: [{
   ### 题目二:
 
   出题人 @熊志杰 
-
+  
   - 什么是主键,什么是外键,他们分别有什么作用?
   - 利用题目一的表来解决以下问题
     - 尝试为`student_major`表中的`student_id`和`major_id`添加外键约束,分别引用`student`表和`major`表
@@ -384,7 +386,7 @@ author: [{
   好的现在你已经是一名优秀的crud工程师辣！是时候学点新东西了。
 
   lyy不懂事出着玩的
-
+  
   - 了解什么是JDBC，并使用它连接你的数据库。
   - 用JDBC实现`查询``专业为Medicine``的学生`这一操作。
   - 当我们要执行很多条语句时，如果一次一次地提交，会花费很多时间，如何实现一口气全部交给数据库处理？请写出相关代码（例子自举）。
@@ -402,12 +404,12 @@ author: [{
 
   它的核心就是对文件的操作，对于字节、字符类型的输入和输出。如下是一整个计算机的总线结构：
 
-  ![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmY1YWM4N2I5MjY4YzgzNTAxODliMjhiOGJhNzFkZDJfZDFtUGt2ZFgwemxzMU5ZOW9hcjNXencxVG1CcVhZZDdfVG9rZW46VFBQcWJCOVpDbzNWWEd4UllGZ2M1d2ExbmJmXzE3MjU5NTYzMTA6MTcyNTk1OTkxMF9WNA)
+  ![78a53665-20fa-49e3-8130-0a0e763bfca5](..\.vuepress\public\assets\image\backend\78a53665-20fa-49e3-8130-0a0e763bfca5.png)
 
   常见的I/O设备就是键鼠通过USB进行传输的外设或接口，硬盘。一般情况下这些设备是由CPU发出指令通过南桥芯片间进行控制。
 
   JavaIO一般有输入输出流、字符流、缓冲流、打印流等等等等。JDK提供了一套用于IO操作的框架方便开发者使用。请自行学习后完成下面题目：
-
+  
   - IO流分为哪四大类？它们的抽象基类各是什么？其中字节流和字符流的区别是什么？
   - 了解绝对路径与相对路径的区别。创建`test.txt`文件，获取该文件的文件字节输入流，并用`try-catch-finally`语句实现流的关闭，完成对资源的释放。
   - 利用文件字节输入输出流实现文件的拷贝，原文件为`test.txt`，拷贝文件为`copy.txt`，文件内容自拟。请提交代码以及两个文件运行后的截图。
@@ -429,7 +431,7 @@ author: [{
   请你进行Socket相关知识的学习，尝试完成以下题目：
 
   ### 题目一
-
+  
   - 了解TCP/IP协议，了解UDP协议，说一说TCP和UDP协议的区别。
   - 尝试完成一个简单的系统，要求实现服务端和客户端程序，保证在同一设备上可以实现以下效果（以代码的形式提交）：
     - 客户端发送一个整数（0<该整数<5000），服务端接收到整数时，返回以该整数为年份的年是否是闰年的真值。
@@ -439,7 +441,7 @@ author: [{
   ### 题目二
 
   尝试回答下列问题
-
+  
   - 阻塞与非阻塞有什么区别？
   - 同步与异步有什么区别？
 
@@ -454,7 +456,7 @@ author: [{
   这个项目耳熟能详的图书管理系统，但是我们会让他显得更“**高级**”，你只需要有一部分代码我们已经帮你们完成，所以你们只需要完成一部分代码即可。
 
   要完成下面的项目，仅仅掌握上面的代码可不够，你需要学习一些新的，更高级的知识：
-
+  
   - Maven 项目管理工具 https://maven.org.cn/guides/getting-started/index.html
   - Mybatis 持久层框架 Mybatis中文网: https://mybatis.net.cn/                                                                   如何在Maven项目中使用Mybatis:https://blog.csdn.net/Zhongtongyi/article/details/106090219
   - Lombok https://www.cnblogs.com/heyonggang/p/8638374.html
@@ -463,14 +465,14 @@ author: [{
   你对这里两个知识有基本的了解就可以开始尝试完成项目了。
 
   在开始之前还需要完成一些前置准备：
-
+  
   - 配置好java环境
   - 配置maven环境变量
   - 下载好mysql或者其他数据库等
   - 在你下载的数据库中新建一个数据库名为library，创建三张表，表结构见下面的表格
 
   **book：**
-
+  
   | 字段  | 类型    | 长度           | 注释                                   |
   | ----- | ------- | -------------- | -------------------------------------- |
   | id    | int     |                | 不能为空，设置为主键，并设置为自动递增 |
@@ -479,13 +481,13 @@ author: [{
   | price | decimal | 10 (小数点2位) |                                        |
 
   设置触发器，名字为del_book 触发时机是删除之前 sql为
-
+  
   ```Java
   delete from borrow where book_id = old.id
   ```
 
   **student:**
-
+  
   | 字段     | 类型    | 长度 | 注释                   |
   | -------- | ------- | ---- | ---------------------- |
   | id       | int     |      | 不为空，主键，自动递增 |
@@ -495,13 +497,13 @@ author: [{
   | password | varchar | 50   | 不为空                 |
 
   设置触发器，名字为del_student 触发时机是删除之前 sql为
-
+  
   ```Java
   delete from borrow where student_id = old.id
   ```
 
   **borrow:**
-
+  
   | 字段       | 类型 | 长度 | 注释                                                    |
   | ---------- | ---- | ---- | ------------------------------------------------------- |
   | id         | int  |      | 不为空，主键，自动递增                                  |
@@ -513,7 +515,7 @@ author: [{
   然后你需要在github上下载代码地址为 https://github.com/yrlovejava/YOLO-backend，你可以利用git将代码pull下来，也可以下载压缩包到本地再解压，(如果你会使用git，或许会加分？？)
 
   你需要完成的部分有两部分：
-
+  
   - maven坐标导入部分：你需要自己导入需要的maven坐标，体验使用maven管理项目依赖的过程，如果找不到maven依赖可以问学长们
   - 代码部分：我们已经使用TODO标识出来，其他的注解是我的一些思路，你可以依照这个思路去写，然后有一些函数已经写好，你可以参照来写，我们更希望看到你有着自己的实现，甚至改造这个项目。
 
@@ -522,5 +524,5 @@ author: [{
   - [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
   https://itbaima.net/curriculum
-
+  
   - [韩顺平零基础学Java](https://www.bilibili.com/video/BV1fh411y7R8/)
