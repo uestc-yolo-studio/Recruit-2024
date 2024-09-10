@@ -30,7 +30,7 @@ author: [{
 
   文件夹的结构类似于这样:
 
-  ![1280X1280](..\.vuepress\public\assets\image\backend\1280X1280.PNG)
+  ![1280X1280](./assets/1280X1280.png)
 
   然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-后端-JAVA基础` 。
 
@@ -40,9 +40,9 @@ author: [{
 
   欢迎各位24级的各位同学点开YOLO工作室后端招新题，进入奇妙的Java世界。在这篇文档中我们将试图为你的Java学习做一些引导。加入工作室之后，更是有詹少😊雷神🤪郭神😍这种位面顶级大能为你提供Java指导，带你手撕面试，剑指offer！
 
-  <img src="..\.vuepress\public\assets\image\backend\1280X1280 (1).PNG" alt="1280X1280 (1)" style="zoom:50%;" />
+  <img src="./assets/1280X12801.png" alt="1280X1280_1" style="zoom:50%;" />
 
-  <img src="..\.vuepress\public\assets\image\backend\1280X1280 (2).PNG" alt="1280X1280 (2)" style="zoom:50%;" />
+  <img src="./assets/1280X12802.png" alt="1280X1280_2" style="zoom:50%;" />
 
   Java是一门[面向对象](https://baike.baidu.com/item/面向对象/0?fromModule=lemma_inlink)的编程语言，不仅吸收了[C++](https://baike.baidu.com/item/C++/0?fromModule=lemma_inlink)语言的各种优点，还摒弃了C++里难以理解的多继承、[指针](https://baike.baidu.com/item/指针/2878304?fromModule=lemma_inlink)等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程
 
@@ -215,17 +215,17 @@ author: [{
 
   运动员有很多很多，每个人负责不同的项目，但是不管是什么运动员，都至少要训练和参赛，只不过内容不同而已，所以你要将运动员当作父类，然后生成乒乓球运动员和游泳运动员，作为运动员的子类。请参照下面的类图
 
-  ![whiteboard_exported_image](..\.vuepress\public\assets\image\backend\whiteboard_exported_image.png)
+  ![whiteboard_exported_image](./assets/whiteboard_exported_image.png)
 
   父类的两个方法需要有实现的，如果子类不重写父类的方法，那就默认使用父类的实现，但是这里要求每个子类都需要重写。具体的实现只需要打印语句即可。
 
   同样的教练也有很多很多，那么我们可以仿照上面的运动员类图得到教练的类图。
 
-  ![whiteboard_exported_image (1)](..\.vuepress\public\assets\image\backend\whiteboard_exported_image (1).png)
+  ![whiteboard_exported_image (1)](./assets/whiteboard_exported_image (1).png)
 
   其实不管是运动员还是教练，都应该是人，所以完整的类的关系应该是这样的:
 
-  ![whiteboard_exported_image (2)](..\.vuepress\public\assets\image\backend\whiteboard_exported_image (2).png)
+  ![whiteboard_exported_image (2)](./assets/whiteboard_exported_image (2).png)
 
   但是运动员和教练都需要吃饭，都需要睡觉，还有都需要学习吧，人都需要吃饭和睡觉，但是不是每个人都在学习，所以如果把学习放在people类中，是不是不够恰当，那么该如何实现呢？那么在之后我又发现一个只有运动员和教练才会有的行为，我怎么样更快的，更方便的让这个这两个类增加呢？
 
@@ -328,7 +328,7 @@ author: [{
 
   以下是一张与异常相关的图片：s
 
-  ![c0749271-9d47-4882-9290-8ba3f13a78a3](..\.vuepress\public\assets\image\backend\c0749271-9d47-4882-9290-8ba3f13a78a3.png)
+  ![c0749271-9d47-4882-9290-8ba3f13a78a3](./assets/c0749271-9d47-4882-9290-8ba3f13a78a3.png)
 
   > 善用搜索引擎，整理你所得到的信息，并结合你的理解。
   
@@ -409,7 +409,7 @@ author: [{
 
   它的核心就是对文件的操作，对于字节、字符类型的输入和输出。如下是一整个计算机的总线结构：
 
-  ![78a53665-20fa-49e3-8130-0a0e763bfca5](..\.vuepress\public\assets\image\backend\78a53665-20fa-49e3-8130-0a0e763bfca5.png)
+  ![78a53665-20fa-49e3-8130-0a0e763bfca5](./assets/78a53665-20fa-49e3-8130-0a0e763bfca5.png)
 
   常见的I/O设备就是键鼠通过USB进行传输的外设或接口，硬盘。一般情况下这些设备是由CPU发出指令通过南桥芯片间进行控制。
 

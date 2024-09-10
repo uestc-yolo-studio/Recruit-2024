@@ -13,7 +13,7 @@ export default navbar([
             },
             {
                 text: '后端',
-                link: '/recruit/backend.md',
+                link: '/recruit/backend/backend.md',
             },
             {
                 text: 'Go',
