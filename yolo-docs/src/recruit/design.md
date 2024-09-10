@@ -1,9 +1,9 @@
 ---
-title: 前端
+title: 设计
 sidebar: true
 author: [
   {
-    name: 'lyy',
+    name: '雷鱼羊',
     url: ''
   },
 ]

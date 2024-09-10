@@ -1,9 +1,9 @@
 ---
-title: 前端
+title: 机器学习
 sidebar: true
 author: [
   {
-    name: 'lyy',
+    name: 'yll',
     url: ''
   },
 ]
