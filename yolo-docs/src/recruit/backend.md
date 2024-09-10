@@ -56,7 +56,7 @@ Java是一门[面向对象](https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E5%A
 4. 我们鼓励你用gpt来进行学习，但是我们更希望你能用自己的理解来做每一道题。
     
 
-# JAVA基础
+## JAVA基础
 
 Wiki百科对Java的描述如下：
 
@@ -97,7 +97,7 @@ Wiki百科对Java的描述如下：
 
 **注：函数中需要自己填写传入的参数。**
 
-```Plain
+```Java
 package com.test;
 
 public class Main {
