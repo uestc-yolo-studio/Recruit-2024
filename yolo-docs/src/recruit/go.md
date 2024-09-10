@@ -116,7 +116,7 @@ Go语言是由Google公司开发的开源语言，在语法上属于类C语言�
 - 该程序倘若输入的命令行参数不是数字，那最大值的选取规则如何？
 - 该程序倘若不将命令行参数转化为int类型就比较大小，最终结果还会一样吗？为什么？
 
-1. ### 数组与切片
+2. ### 数组与切片
 
 出题人：@秦川 2294818214@qq.com
 
@@ -144,15 +144,15 @@ func canPartition(nums []int) bool {
 
 #### 测试用例
 
-1. **示例 1：**
+**示例 1：**
 
 > **输入：**nums = [1,1,4,5,1,4] **输出：**true **解释：**数组可以分割成 [1,1,1,5] 和 [4,4] 。
 
-1. **示例 2：**
+**示例 2：**
 
 > **输入：**nums = [1,9,1,9,8,1,0] **输出：**false **解释：**数组不能分割成两个元素和相等的子集。
 
-1. ### Map
+3. ### Map
 
 出题人：@秦川 2294818214@qq.com
 
@@ -183,19 +183,19 @@ func mergeItems(items1, items2 [][]int) map[int]int {
 
 #### 测试用例
 
-1. **示例 1：**
+**示例 1：**
 
 > **输入：**items1 = [[1,1],[4,5],[3,8]], items2 = [[3,1],[1,5]] **输出：**map[1:6 3:9 4:5] **解释：** value = 1 的物品在
 > items1 中 weight = 1 ，在 items2 中 weight = 5 ，总重量为 1 + 5 = 6 。 value = 3 的物品再 items1 中 weight = 8 ，在 items2 中
 > weight = 1 ，总重量为 8 + 1 = 9 。 value = 4 的物品在 items1 中 weight = 5 ，总重量为 5 。
 
-1. **示例 2：**
+**示例 2：**
 
 > **输入：**items1 = [[1,1],[3,2],[2,3]], items2 = [[2,1],[3,2],[1,3]] **输出：**map[1:4 2:4 3:4] **解释：** value = 1 的物品在
 > items1 中 weight = 1 ，在 items2 中 weight = 3 ，总重量为 1 + 3 = 4 。 value = 2 的物品在 items1 中 weight = 3 ，在 items2 中
 > weight = 1 ，总重量为 3 + 1 = 4 。 value = 3 的物品在 items1 中 weight = 2 ，在 items2 中 weight = 2 ，总重量为 2 + 2 = 4 。
 
-1. ### 接口与方法
+4. ### 接口与方法
 
 出题人：@梁佳琦 2111691053@163.com
 
@@ -353,7 +353,7 @@ func (E *Enemy) UseSkill() (bloodVal int) {
 }
 ```
 
-1. ### Goroutine和Channel
+5. ### Goroutine和Channel
 
 出题人：@杨泽勋
 
@@ -502,7 +502,7 @@ Gin 是一个用于 Go 语言的高性能 Web 框架。它以其简洁的设计�
 - [Gin框架介绍及使用 - 李文周的博客](https://liwenzhou.com/posts/Go/gin/)
 - [【最新Go Web开发教程】基于gin框架和gorm的web开发实战 (七米出品)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gJ411p7xC/?share_source=copy_web&vd_source=754c29f5132127c81e7a06542776d77c)
 
-1. ### 环境搭建
+2. ### 环境搭建
 
 下载和安装Gin框架，在终端执行以下命令即可：
 
@@ -510,7 +510,7 @@ Gin 是一个用于 Go 语言的高性能 Web 框架。它以其简洁的设计�
 go get -u github.com/gin-gonic/gin
 ```
 
-1. ### HTTP、RESTful API、JSON
+3. ### HTTP、RESTful API、JSON
 
 #### HTTP
 
@@ -549,7 +549,7 @@ REST的全称是**Representational State Transfer**，**表现层状态转化**�
 - [Json 详解，5分钟学会_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1We411y7wn/?share_source=copy_web&vd_source=754c29f5132127c81e7a06542776d77c)
 - [JSON 语法 | 菜鸟教程](https://www.runoob.com/json/json-syntax.html)
 
-1. ### Hello, world!
+4. ### Hello, world!
 
 Talk is easy, show me your code! 现在正式开始用gin框架写一个helloworld吧。
 
@@ -581,7 +581,7 @@ func main() {
 
 你可能会对gin.Context和gin.H的具体含义有疑惑，请查看注释或者上网搜索获得更多的描述信息。
 
-1. ### 项目
+5. ### 项目
 
 为了让你进一步体验Gin框架的Go后端开发，我们准备了一个很小的项目，主要实现最基本的注册和登录逻辑，使用文本文件来模拟存储用户数据。
 
