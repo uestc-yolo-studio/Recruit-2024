@@ -35,19 +35,19 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: 前端
-        link: /recruit/frontend
+        link: /recruit/frontend/frontend
         
       - title: 后端
-        link: /recruit/backend        
+        link: /recruit/backend/backend        
 
       - title: Go
-        link: /recruit/go        
+        link: /recruit/go/go        
 
       - title: 机器学习
-        link: /recruit/machine-learning        
+        link: /recruit/machine-learning/machine-learning
 
       - title: 设计
-        link: /recruit/design           
+        link: /recruit/design/design           
 
       - title: 操作系统
         link: https://uestc-os-camp.clovy.top/#/
