@@ -2,13 +2,18 @@
 title: 后端
 sidebar: true
 author: [{ 
-    name: 'lyyyyyyyyyy', 
-    url: 'https://github.com/orgs/uestc-yolo-studio/people/Lerikes' 
+    name: '孙浩然', 
+    url: 'https://github.com/orgs/uestc-yolo-studio/people/Khazixshr' 
   },
   {
-    name: 'zjy',
-    url: ''  
-}]
+    name: '袁睿',
+    url: 'https://github.com/orgs/uestc-yolo-studio/people/yrlovejava'  
+  },
+  {
+    name:'程歆睿',
+    url: 'https://github.com/orgs/uestc-yolo-studio/people/missile-cat'
+}
+]
 ---
 
 - ## 提交地址
