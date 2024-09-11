@@ -8,23 +8,23 @@ export default sidebar({
         {
             text: '前端',
             prefix: '/recruit/',
-            link: '/recruit/frontend/frontend',
+            link: '/recruit/frontend/frontend.md',
         },
         {
             text: '后端',
-            link: '/recruit/backend/backend',
+            link: '/recruit/backend/backend.md',
         },
         {
             text: 'Go',
-            link: '/recruit/go',
+            link: '/recruit/go/go.md',
         },
         {
             text: '设计',
-            link: '/recruit/design',
+            link: '/recruit/design/design.md',
         },
         {
             text: '机器学习',
-            link: '/recruit/machine-leaning/machine-leaning',
+            link: '/recruit/machine-leaning/machine-leaning.md',
         }
     ],
 
