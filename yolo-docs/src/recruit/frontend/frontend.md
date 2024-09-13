@@ -9,7 +9,9 @@ author: [
 ]
 ---
 
-![img](https://uestc.feishu.cn/space/api/box/stream/download/asynccode/?code=YTM2ZjU3N2M5NDc2Mzk2YWZkZjE5NDUxNTgxNzJhMDBfakg1SVZSbmxGMVdlcUpOZFhpcjlCQkV0ODBvWFFoemZfVG9rZW46TXQ3a2J5Q3Bkb1ZHS2h4SWU3VmNUQ3pObmNnXzE3MjYxNDk3NTY6MTcyNjE1MzM1Nl9WNA)
+# 2024YOLO前端招新：
+
+![](.\assets\1280X1280.PNG)
 
 你是否对炫酷的网页和APP界面感兴趣？你是不是曾经想过，能不能有一天自己也能做出那些精美的页面？那前端开发这个职位简直就是为你量身定做的！💻🌟
 
