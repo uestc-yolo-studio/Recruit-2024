@@ -3,8 +3,16 @@ title: 前端
 sidebar: true
 author: [
   {
-    name: '',
-    url: ''
+    name: '施易宏',
+    url: 'https://github.com/SupremacySakura'
+  },
+   {
+    name: '蒙灏冉',
+    url: 'https://github.com/FYHbA'
+  },
+ {
+    name: '张雨桐',
+    url: 'https://github.com/Eneid3131'
   },
 ]
 ---
@@ -162,7 +170,7 @@ Tips：http://t.csdnimg.cn/Nrtqw
 ### 提示：
 
 - 了解一下 **随机数** 和 **定时器** 的用法🔢⏲️
-- 使用<span>作为弹幕容器📦，让弹幕从视频的最右边出现，滑动到最左边消失后再移除🖥️➡️🚪
+- 使用\<span\>作为弹幕容器📦，让弹幕从视频的最右边出现，滑动到最左边消失后再移除🖥️➡️🚪
 - 自己输入的弹幕可以醒目一点，比如设置边框颜色🎨🖍️
 
 ### **附加题**：
