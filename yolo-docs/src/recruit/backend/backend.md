@@ -3,15 +3,15 @@ title: 后端
 sidebar: true
 author: [{ 
     name: '孙浩然', 
-    url: 'https://github.com/orgs/uestc-yolo-studio/people/Khazixshr' 
+    url: 'https://github.com/Khazixshr' 
   },
   {
     name: '袁睿',
-    url: 'https://github.com/orgs/uestc-yolo-studio/people/yrlovejava'  
+    url: 'https://github.com/yrlovejava'  
   },
   {
     name:'程歆睿',
-    url: 'https://github.com/orgs/uestc-yolo-studio/people/missile-cat'
+    url: 'https://github.com/missile-cat'
 }
 ]
 ---
@@ -22,7 +22,7 @@ author: [{
 
   @程歆睿 3385657644@qq.com
 
-  @袁睿  14780339727@163.com
+  @袁睿  14780339727@163.com 
 
   ## 提交方式
 
