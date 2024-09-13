@@ -10,7 +10,7 @@ author: [{
     url: 'https://github.com/yrlovejava'  
   },
   {
-    name:'程歆睿',
+    name: '程歆睿',
     url: 'https://github.com/missile-cat'
 }
 ]
