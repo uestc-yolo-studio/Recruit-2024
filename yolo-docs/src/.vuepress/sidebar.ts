@@ -24,7 +24,7 @@ export default sidebar({
         },
         {
             text: '机器学习',
-            link: '/recruit/machine-leaning/machine-leaning.md',
+            link: '/recruit/machine-learning/machine-learning.md',
         }
     ],
 
