@@ -31,7 +31,7 @@ author: [
 
 文件夹的结构类似于这样:
 
-[![1280X1280](.\assets\1280X1280.PNG)](https://github.com/uestc-yolo-studio/Recruit-2024/blob/main/yolo-docs/src/recruit/backend/assets/1280X1280.png)
+[![1280X1280](./assets/1280X1280.png)](https://github.com/uestc-yolo-studio/Recruit-2024/blob/main/yolo-docs/src/recruit/backend/assets/1280X1280.png)
 
 然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-前端-下拉菜单` 。
 
