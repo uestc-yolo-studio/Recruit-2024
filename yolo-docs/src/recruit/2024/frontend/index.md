@@ -19,7 +19,7 @@ author: [
 
 ## 提交地址
 
-@施易宏 2712794458@qq.com
+@施易宏 2712794459@qq.com
 
 @蒙灏冉 2594839508@qq.com
 
@@ -27,11 +27,11 @@ author: [
 
 ## 提交方式
 
-请你先建一个文件夹来保存你做题的答案，文件名字你喜欢就行，然后在这个文件夹下再建一个文件夹assets，这个文件夹用来保存你的代码运行截图或者其他图片，请你每一个部分写一个markdown文档，markdown文档中的图片一律使用相对路径也就是类似于`assets\23134asd.png` 这样的路径
+请你先建一个文件夹来保存你做题的答案，文件名字你喜欢就行，然后在这个文件夹下再建一个文件夹assets，这个文件夹用来保存你的代码运行截图或者其他图片，请你每一个部分写一个markdown文档，markdown文档中的图片一律使用相对路径也就是类似于`assets/23134asd.png` 这样的路径
 
 文件夹的结构类似于这样:
 
-[![1280X1280](.\assets\1280X1280.PNG)](https://github.com/uestc-yolo-studio/Recruit-2024/blob/main/yolo-docs/src/recruit/backend/assets/1280X1280.png)
+![欢迎加入前端方向](assets/1280X1280.png)
 
 然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-前端-下拉菜单` 。
 
@@ -72,21 +72,21 @@ author: [
 
 ### 我们需要怎样的小伙伴？🤩
 
-如果你对前端有兴趣，不论是有一定基础，还是刚刚开始了解，Yolo工作室都欢迎你加入！我们希望你：
+如果你对前端有兴趣，不论是有一定基础，还是刚刚开始了解，YOLO工作室都欢迎你加入！我们希望你：
 
 - 热爱学习：前端技术更新很快，保持学习才能跟上节奏。
 - 乐于沟通：团队合作很重要，你需要和设计师、后端工程师愉快合作。
 - 注重细节：前端开发就是要把每一个小细节都做得完美。
 
-在Yolo工作室，我们提供的是一个开放、自由、有趣的环境，让你尽情发挥自己的创造力。还等什么呢？快来加入我们，一起打造属于你的前端世界吧！🎉💻
+在YOLO工作室，我们提供的是一个开放、自由、有趣的环境，让你尽情发挥自己的创造力。还等什么呢？快来加入我们，一起打造属于你的前端世界吧！🎉💻
 
-期待你的加入！Yolo，等你来战！🚀
+期待你的加入！YOLO，等你来战！🚀
 
 ## 学习路线
 
-1. HTML+CSS
-2. Javascript->AJAX,Node.js,Webpack
-3. 框架Vue,React
+1. HTML + CSS
+2. Javascript -> AJAX, Node.js, Webpack
+3. 框架 Vue, React
 
 ## Hello YOLO!
 
@@ -122,7 +122,9 @@ author: [
 
 知识点：本题需要对CSS盒子模型进行熟练运用并创新，同时可以多多尝试实现瀑布流的多种方式。
 
-Tips：http://t.csdnimg.cn/arULk
+Tips：
+
+- [https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7](https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7)
 
 ## 简单动画
 
@@ -145,9 +147,10 @@ Tips：http://t.csdnimg.cn/arULk
 
 知识点：本体需要了解CSS3动画的制作以及3D转换的拓展
 
-Tips：http://t.csdnimg.cn/Nrtqw
+Tips：
 
-​      http://t.csdnimg.cn/1DOSL
+- [https://www.runoob.com/css3/css3-3dtransforms.html](https://www.runoob.com/css3/css3-3dtransforms.html)
+- [https://www.runoob.com/css3/css3-animations.html](https://www.runoob.com/css3/css3-animations.html) 
 
 ## 模拟弹幕
 
@@ -183,9 +186,9 @@ Tips：http://t.csdnimg.cn/Nrtqw
 
 Tips:
 
-- https://www.runoob.com/js/js-tutorial.html
-- https://www.runoob.com/w3cnote/js-timer.html  
-- https://www.runoob.com/jsref/jsref-random.html
+- [https://www.runoob.com/js/js-tutorial.html](https://www.runoob.com/js/js-tutorial.html)
+- [https://www.runoob.com/w3cnote/js-timer.html](https://www.runoob.com/w3cnote/js-timer.html)  
+- [https://www.runoob.com/jsref/jsref-random.html](https://www.runoob.com/jsref/jsref-random.html)
 
 ## 轮播图
 
@@ -209,8 +212,8 @@ Tips:
 
 Tips:
 
-- https://cn.vuejs.org/guide/introduction.html
-- https://zh-hans.react.dev
+- [https://cn.vuejs.org/guide/introduction.html](https://cn.vuejs.org/guide/introduction.html)
+- [https://zh-hans.react.dev](https://zh-hans.react.dev)
 
 ## 下拉菜单
 
@@ -239,7 +242,7 @@ Tips:
 
 💻 作为一个前端工程师，**WebStorm** 是一个必不可少的工具！🛠️🔍
 
-请你仿造webstorm中文官网(https://www.jetbrains.com/zh-cn/webstorm/),绘制一个网页.🌐✨
+请你仿造webstorm中文官网（[https://www.jetbrains.com/zh-cn/webstorm/](https://www.jetbrains.com/zh-cn/webstorm/)），绘制一个网页.🌐✨
 
 ### 🌟 **要求** 🌟
 
@@ -256,5 +259,6 @@ Tips:
 
 Tips:
 
-- https://cn.vuejs.org/guide/introduction.html
-- https://zh-hans.react.dev/learn
+- [https://cn.vuejs.org/guide/introduction.html](https://cn.vuejs.org/guide/introduction.html)
+- [https://zh-hans.react.dev/learn](https://zh-hans.react.dev/learn)
+
