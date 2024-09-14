@@ -31,7 +31,7 @@ author: [
 
 文件夹的结构类似于这样:
 
-[![欢迎加入前端方向](.\assets\1280X1280.PNG)]
+![欢迎加入前端方向](.\assets\1280X1280.PNG)
 
 然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-前端-下拉菜单` 。
 
@@ -122,7 +122,9 @@ author: [
 
 知识点：本题需要对CSS盒子模型进行熟练运用并创新，同时可以多多尝试实现瀑布流的多种方式。
 
-Tips：[https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7](https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7)
+Tips：
+
+- [https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7](https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-card.all.click&vd_source=b08229734fc1b14aeb3fb2232f5fdee7)
 
 ## 简单动画
 
@@ -145,9 +147,10 @@ Tips：[https://www.bilibili.com/video/BV1LpHreRE9Z/?spm_id_from=333.337.search-
 
 知识点：本体需要了解CSS3动画的制作以及3D转换的拓展
 
-Tips：[https://www.runoob.com/css3/css3-3dtransforms.html](https://www.runoob.com/css3/css3-3dtransforms.html)
+Tips：
 
-​     [https://www.runoob.com/css3/css3-animations.html](https://www.runoob.com/css3/css3-animations.html) 
+- [https://www.runoob.com/css3/css3-3dtransforms.html](https://www.runoob.com/css3/css3-3dtransforms.html)
+- [https://www.runoob.com/css3/css3-animations.html](https://www.runoob.com/css3/css3-animations.html) 
 
 ## 模拟弹幕
 
@@ -239,7 +242,7 @@ Tips:
 
 💻 作为一个前端工程师，**WebStorm** 是一个必不可少的工具！🛠️🔍
 
-请你仿造webstorm中文官网([https://www.jetbrains.com/zh-cn/webstorm/](https://www.jetbrains.com/zh-cn/webstorm/),绘制一个网页.🌐✨
+请你仿造webstorm中文官网([https://www.jetbrains.com/zh-cn/webstorm/](https://www.jetbrains.com/zh-cn/webstorm/)),绘制一个网页.🌐✨
 
 ### 🌟 **要求** 🌟
 
