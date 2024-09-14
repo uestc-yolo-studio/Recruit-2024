@@ -31,7 +31,7 @@ author: [
 
 文件夹的结构类似于这样:
 
-![欢迎加入前端方向](.\assets\1280X1280.PNG)
+![欢迎加入前端方向](./assets/1280X1280.png)
 
 然后提交时打包为`.zip` 文件，然后以`学号-姓名-方向-部分` 的形式提交，示例`202309091565-小明-前端-下拉菜单` 。
 
@@ -86,7 +86,7 @@ author: [
 
 1. HTML + CSS
 2. Javascript -> AJAX, Node.js, Webpack
-3. 框架Vue, React
+3. 框架 Vue, React
 
 ## Hello YOLO!
 
@@ -242,7 +242,7 @@ Tips:
 
 💻 作为一个前端工程师，**WebStorm** 是一个必不可少的工具！🛠️🔍
 
-请你仿造webstorm中文官网([https://www.jetbrains.com/zh-cn/webstorm/](https://www.jetbrains.com/zh-cn/webstorm/)),绘制一个网页.🌐✨
+请你仿造webstorm中文官网（[https://www.jetbrains.com/zh-cn/webstorm/](https://www.jetbrains.com/zh-cn/webstorm/)），绘制一个网页.🌐✨
 
 ### 🌟 **要求** 🌟
 
