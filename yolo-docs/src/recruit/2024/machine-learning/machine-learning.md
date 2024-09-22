@@ -128,7 +128,7 @@ PyTorch框架本身基于python语法格式，python作为解释性语言，性�
 
 **任务**
 
-1. 构建卷积神经网络LetNet
+1. 构建卷积神经网络LeNet
 
 2. 加载pytorch官方所提供的MNIST数据集
 
