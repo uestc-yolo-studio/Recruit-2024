@@ -8,15 +8,15 @@ export default sidebar({
         {
             text: '前端',
             prefix: '/recruit/',
-            link: '/recruit/2024/frontend/tmp',
+            link: '/recruit/2024/frontend/',
         },
         {
             text: '后端',
-            link: '/recruit/2024/backend/tmp',
+            link: '/recruit/2024/backend/',
         },
         {
             text: 'Go',
-            link: '/recruit/2024/go/tmp',
+            link: '/recruit/2024/go/',
         },
         {
             text: '设计',
@@ -24,7 +24,7 @@ export default sidebar({
         },
         {
             text: '机器学习',
-            link: '/recruit/2024/machine-learning/tmp',
+            link: '/recruit/2024/machine-learning/',
         }
     ],
 

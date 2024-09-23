@@ -12,7 +12,7 @@ tagline: You Only Live Once
 actions:
   - text: 立即加入
     icon: lightbulb
-    link: ''
+    link: ./recruit/2024/
     type: primary
 
 highlights:
@@ -35,16 +35,16 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: 前端
-        link: /recruit/2024/frontend/tmp
+        link: /recruit/2024/frontend/
         
       - title: 后端
-        link: /recruit/2024/backend/tmp    
+        link: /recruit/2024/backend/  
 
       - title: Go
-        link: /recruit/2024/go/tmp     
+        link: /recruit/2024/go/    
 
       - title: 机器学习
-        link: /recruit/2024/machine-learning/tmp
+        link: /recruit/2024/machine-learning/
 
       - title: 设计
         link: /recruit/2024/design/           

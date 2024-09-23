@@ -40,9 +40,9 @@ author: [{
 
   欢迎各位24级的各位同学点开YOLO工作室后端招新题，进入奇妙的Java世界。在这篇文档中我们将试图为你的Java学习做一些引导。加入工作室之后，更是有詹少😊雷神🤪郭神😍这种位面顶级大能为你提供Java指导，带你手撕面试，剑指offer！
 
-  <img src="assets/我要成为java高手.png" alt="1280X1280_1" style="zoom:50%;" />
+  <img src="./assets/我要成为java高手.png" alt="1280X1280_1" style="zoom:50%;" />
 
-  <img src="assets/java.png" alt="1280X1280_2" style="zoom:50%;" />
+  <img src="./assets/java.png" alt="1280X1280_2" style="zoom:50%;" />
 
   Java是一门[面向对象](https://baike.baidu.com/item/面向对象/0?fromModule=lemma_inlink)的编程语言，不仅吸收了[C++](https://baike.baidu.com/item/C++/0?fromModule=lemma_inlink)语言的各种优点，还摒弃了C++里难以理解的多继承、[指针](https://baike.baidu.com/item/指针/2878304?fromModule=lemma_inlink)等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程
 
