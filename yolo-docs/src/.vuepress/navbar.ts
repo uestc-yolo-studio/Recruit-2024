@@ -9,23 +9,23 @@ export default navbar([
         children: [
             {
                 text: '前端',
-                link: '/recruit/frontend/frontend.md',
+                link: '/recruit/2024/frontend/',
             },
             {
                 text: '后端',
-                link: '/recruit/backend/backend.md',
+                link: '/recruit/2024/backend/',
             },
             {
                 text: 'Go',
-                link: '/recruit/go/go.md',
+                link: '/recruit/2024/go/',
             },
             {
                 text: '设计',
-                link: '/recruit/design/design.md',
+                link: '/recruit/2024/design/',
             },
             {
                 text: '机器学习',
-                link: '/recruit/machine-learning/machine-learning.md',
+                link: '/recruit/2024/machine-learning/',
             },
             {
                 text: '操作系统',

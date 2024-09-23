@@ -12,7 +12,7 @@ tagline: You Only Live Once
 actions:
   - text: 立即加入
     icon: lightbulb
-    link: ./recruit/
+    link: ./recruit/2024/
     type: primary
 
 highlights:
@@ -35,19 +35,19 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: 前端
-        link: /recruit/frontend/frontend
+        link: /recruit/2024/frontend/
         
       - title: 后端
-        link: /recruit/backend/backend        
+        link: /recruit/2024/backend/  
 
       - title: Go
-        link: /recruit/go/go        
+        link: /recruit/2024/go/    
 
       - title: 机器学习
-        link: /recruit/machine-learning/machine-learning
+        link: /recruit/2024/machine-learning/
 
       - title: 设计
-        link: /recruit/design/design           
+        link: /recruit/2024/design/           
 
       - title: 操作系统
         link: https://uestc-os-camp.clovy.top/#/
@@ -96,12 +96,16 @@ highlights:
       - title: “中国软件杯”大学生软件设计大赛省级三等奖（2024）
       - title: 蓝桥杯全国软件和信息技术专业人才大赛省级三等奖（2024）
       - title: 中国高校计算机大赛—网络技术挑战赛国家一等奖（2023）
-      - title: 华为毕昇杯编译系统设计大赛国家二等奖（2023）
+      - title: 蓝桥杯全国软件和信息技术专业人才大赛国家一等奖（2023）
+      - title: ACM-ICPC亚洲区域赛沈阳站银牌（2023）
+      - title: ACM-ICPC亚洲区域赛合肥站银牌（2023）
+      - title: 全国大学生计算机系统能力大赛-编译系统设计赛（华为毕昇杯）国家二等奖（2023）
+      - title: 中国大学生服务外包创新创业大赛国家三等奖（2023）
       - title: 国家奖学金（2023） （2022）
       - title: 腾讯一等奖学金（2022）
       - title: 
         icon: ellipsis
-        details: 更多获奖情况请查看 <a href="/recruit/award">获奖情况</a>
+        details: 更多获奖情况请查看 <a href="/prizes/">获奖情况</a>
     
 
 
